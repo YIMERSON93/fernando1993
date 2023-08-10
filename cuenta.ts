@@ -1,4 +1,4 @@
-import { cantidad } from "../cantidad";
+import {cantidad } from "./cantidad";
 
 export class cuenta{
 
